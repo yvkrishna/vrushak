@@ -1,5 +1,9 @@
 <h1 align="center">vrushak</h1>
 
+<p align="center">
+    <img src="https://repository-images.githubusercontent.com/263014421/9f135300-945b-11ea-9641-c7213676d8d5" alt="PLDDS" width="780"  height="480">
+</p>
+<br />
 ## Table Of Contents
 - [Introduction](#Introduction)
 - [Block Diagram](#Block_Diagram)
