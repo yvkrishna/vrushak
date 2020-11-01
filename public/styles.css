@@ -1,0 +1,53 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+header{
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+}
+.navbar
+{
+    padding: 20px 0;
+}
+.navbar-brand
+{
+     font-weight: 1000;
+     text-transform: uppercase;
+     font-size: 2em;
+     color:#58B19F;
+}
+.nav-item
+{
+    font-weight: 800;
+    text-transform: uppercase;
+}
+.navbar-light .navbar-nav .nav-item .nav-link:hover,
+.navbar-light .navbar-nav .nav-item.active .nav-link
+{
+    background:#000;
+    color: #fff;
+}
+.navbar-light .navbar-nav .nav-item .nav-link
+{
+    color: #fff;
+    padding: 5px 15px;
+    transition: 0.4s;
+}/*
+.banner
+{
+    position: relative;
+    min-height: 100vh;
+    background: url(./assets/8.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 250px 0 200px;
+}*/
+.display-4
+{
+    
+    align-items: center;
+    text-transform: uppercase;
+}
