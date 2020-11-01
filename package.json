@@ -7,5 +7,19 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igkishore/vrushak.git"
+  },
+  "bugs": {
+    "url": "https://github.com/igkishore/vrushak/issues"
+  },
+  "homepage": "https://github.com/igkishore/vrushak#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.11",
+    "nodemailer": "^6.4.14"
+  }
 }
